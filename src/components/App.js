@@ -22,9 +22,9 @@ const App = () => {
         {
           (gender=='female')&&(
             <select name="opt" id="opt">
-              <option value="large">Large</option>
-              <option value="medium">Mediam</option>
-              <option value="Small">Small</option>
+              <option value="large">2</option>
+              <option value="medium">4</option>
+              <option value="Small">6</option>
             </select>
           )
         }
